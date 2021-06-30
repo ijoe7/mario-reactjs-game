@@ -2,6 +2,34 @@
   text-align: center;
 }
 
+body {
+  background-color: #2e2d2d;
+  color: white;
+}
+
+.maze-image {
+  width: 30px;
+  height: 30px;
+  padding-top: 5px;
+}
+
+#root {
+  margin: 0 auto;
+}
+
+.cell {
+  width: 38px;
+  height: 38px;
+  background: lightgrey;
+  border: solid #2e2d2d 1px;
+  display: block;
+  float: left;
+}
+
+/* .App {
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +63,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
