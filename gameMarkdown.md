@@ -1,6 +1,6 @@
 # Frontend Game Project
 
-[Game Github Link]()
+[Game Github Link](https://github.com/ijoe7/mario-reactjs-game)
 
 ## A React Maze Game
 The Game is built in ReactJs.
